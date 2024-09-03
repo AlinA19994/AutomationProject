@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Environment>
+    <!--General -->
+    <ScreenShort_Path>./../allure/allure-screenshots/</ScreenShort_Path>
+    <!--Web -->
+    <Browser>chrome</Browser>
+    <!-- URL -->
+    <Url>https://homme.co.il//</Url>
+    <!-- Login credentials -->
+    <Username>tester</Username>
+    <Password>tester123!@#qwe</Password>
+    <!--Upload -->
+    <First_Img>..\configuration\imgs\a.jpg</First_Img>
+    <Second_Img>..\configuration\imgs\2.jpg</Second_Img>
+
+
+</Environment>

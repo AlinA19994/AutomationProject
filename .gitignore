@@ -1,0 +1,14 @@
+.git
+.idea
+.pytest_cache
+allure/allure-result/*
+allure/allure-screenshots/*
+extensions/__pycache__
+page_objects/__pycache__
+page_objects/web_object/__pycache__
+page_objects/web_object/Ad_page/__pycache__
+page_objects/web_object/Home_page/__pycache__
+test_cases/__pycache__
+test_cases/.pytest_cache
+utilities/__pycache__
+workflows/__pycache__
