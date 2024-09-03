@@ -18,7 +18,7 @@ pip install selenium~=4.0 pytest webdriver-manager smart-assertions allure-pytes
 
 ### 03.
 
-Download Allue from the following link:
+Download Allure from the following link:
 
 ```
 https://github.com/allure-framework/allure2/releases
